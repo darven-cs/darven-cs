@@ -31,12 +31,5 @@
 
 ---
 
-### 📈 GitHub Stats
-![Darven's GitHub stats](https://github-readme-stats.vercel.app/api?username=darven-cs&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darven-cs&layout=compact&theme=radical)
-
----
-
 ### 🌱 Motto
 > 学习是长期沉淀，解决问题是持续成长。
